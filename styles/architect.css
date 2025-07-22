@@ -175,6 +175,28 @@ margin-top: 50px;
     filter: grayscale(100%);
 }
 
+            /* feature-section style */
+
+
+#feature-section-title{
+    border-left: 5px solid #ff900e;
+    padding-left: 21px;
+}
+.features{
+    gap: 140px;
+}
+.feature-card{
+       padding: 30px ;
+       border-radius: 8px;
+   box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06) ;
+   margin-bottom: 20px;
+}
+
+.feature-card, .feature-title{
+    font-size: 1.5rem;
+    font-weight: 600;
+margin-top: 0px;  
+margin-bottom: 0px; }
 
 
 
